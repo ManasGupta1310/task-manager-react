@@ -1,0 +1,11 @@
+.addTask{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+    margin: 20px auto;
+}
+
+.formGroup{
+    margin: 10px;
+}

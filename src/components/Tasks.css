@@ -1,0 +1,23 @@
+.tasks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+.emptyList{
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
+.taskCard{
+    margin: 10px 0px;
+}
+
+.taskInfo{
+    display: grid;
+    grid-template-columns: 60% 20% 20%;
+    align-items: center;
+}
